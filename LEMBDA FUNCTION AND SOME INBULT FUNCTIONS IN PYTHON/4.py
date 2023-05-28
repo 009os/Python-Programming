@@ -1,0 +1,7 @@
+
+
+#WRITE A PROGRAM TO CONVERT ASCII CODE INTO LETTER.
+
+n=int(input("TYPE A ASCCI CODE :"))
+x = chr(n)
+print("\nYOUR LETTER FOR GIVEN ASCII VALUE IS : ",x)

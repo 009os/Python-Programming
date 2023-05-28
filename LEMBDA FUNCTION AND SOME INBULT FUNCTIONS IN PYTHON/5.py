@@ -1,0 +1,8 @@
+
+
+#WRITE A PROGRAM TO USE ORD FUNCTION.
+
+x = ord('A')
+print("\nYOUR ASCII VALUE FOR GIVEN LETTER : ",x)
+
+
