@@ -1,0 +1,6 @@
+
+#WRITE A PROGRAM TO TAKE RADIUS AS INPUT AND PRINT AREA.
+
+print("ENTER RADIUS OF CIRCLE")
+r=int(input())
+print("AREA IS :",3.14*r*r)

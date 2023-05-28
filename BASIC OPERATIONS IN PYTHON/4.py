@@ -1,0 +1,8 @@
+
+#WRITE A PROGRAM TO TAKE HEIGHT AND DISTANCE OF TRIANGLE AND PRINT ITS AREA .
+print("PRINT HEIGHT and DISTANCE of TRIANGLE")
+x=int(input())
+y=int(input())
+print("THE AREA OF TRIANGLE IS : ",0.5*x*y)
+
+
