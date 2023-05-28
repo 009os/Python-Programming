@@ -1,0 +1,31 @@
+
+1. Create a file story.txt and write following lines in the files using writelines() 
+function.
+According to data, the second wave is 1.7x times faster than the first wave; in 
+other words, it has taken 51 days to reach a daily caseload of 84,000 from 
+11,000, as against 85 days taken in the first wave.
+These analyses suggest that the situation is not at all better but, in fact, it 
+could result in more deaths in less time, putting greater pressure on the health 
+infrastructure than last year.
+Doctors and experts said that several factors are responsible for Covid 
+deaths, including delays in detection, the nature of treatment, and the age of 
+the infected person. Some also said that less severe symptoms are being 
+observed this time around.
+2. Write a function in python to read the content from a text file “story.txt" line 
+by line and display the same on screen.
+3. Write a function in python to count the number of lines from a text file 
+"story.txt" which is not starting with an alphabet "T".
+4. Write a function in Python to count and display the total number of words in 
+a text file "story.txt".
+5. Write a function in Python to read lines from a text file "story.txt", to find and 
+display the occurrence of the word "the".
+6. Write a function display_words() in python to read lines from a text file 
+"story.txt", and display those words, which are more than 4 characters.
+7. Write a function in Python to count the words "is" and "the" present in a text 
+file “story.txt".
+8. Write a function in Python to count words in a text file “story.txt" those are 
+ending with alphabet "e".
+9. Write a function in Python to count uppercase character in a text file 
+“story.txt".
+10.Write a function in Python to count lowercase character in a text file 
+“story.txt".

@@ -1,0 +1,7 @@
+- Txt file :-
+According to data, the second wave is 1.7x times faster than the first wave; in other words, it has taken 51 days to 
+reach a daily caseload of 84,000 from 11,000, as against 85 days taken in the first wave. These analyses suggest that 
+the situation is not at all better but, in fact, it could result in more deaths in less time, putting greater pressure on the
+health infrastructure than last year. Doctors and experts said that several factors are responsible for Covid deaths, 
+including delays in detection, the nature of treatment, and the age of the infected person. Some also said that less 
+severe symptoms are being observed this time around.
