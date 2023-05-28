@@ -1,0 +1,5 @@
+#WRITE A PROGRAM TO CONVERT A STRING INTO LOWERCASE.
+
+str="PYTHON"
+str1=str.lower()
+print(str1)
